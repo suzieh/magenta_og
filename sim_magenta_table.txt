@@ -1,0 +1,12 @@
+Post_ID	Post_Filename	Donor_ID	Donor_Filename_fwd	Donor_Filename_rev	Pre_ID	Pre_Filename_fwd	Pre_Filename_rev
+Sim0Pre	simulation_0.0_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
+Sim10Pre	simulation_0.1_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
+Sim20Pre	simulation_0.2_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
+Sim30Pre	simulation_0.3_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
+Sim40Pre	simulation_0.4_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
+Sim50Pre	simulation_0.5_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
+Sim60Pre	simulation_0.6_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
+Sim70Pre	simulation_0.7_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
+Sim80Pre	simulation_0.8_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
+Sim90Pre	simulation_0.9_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
+Sim100Pre	simulation_1.0_pre.fastq	Donor1	donor_simulation_r1.fastq	donor_simulation_r2.fastq	Pre1	pre_simulation_r1.fastq	pre_simulation_r2.fastq
