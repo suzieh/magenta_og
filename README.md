@@ -38,7 +38,7 @@ The MAGEnTa tool needs a **table containing the sample identifiers in a pre-defi
 
 The tutorial sample table is shown below:
 
-** | Post_ID | Post_Filename | Donor_ID | Donor_Filename_fwd | Donor_Filename_rev | Pre_ID | Pre_Filename_fwd | Pre_Filename_rev | **
+| Post_ID | Post_Filename | Donor_ID | Donor_Filename_fwd | Donor_Filename_rev | Pre_ID | Pre_Filename_fwd | Pre_Filename_rev |
 | ------- | ------------- | -------- | ------------------ | ------------------ | ------ | ---------------- | ---------------- |
 | Sim0Pre | simulation_0.0_pre.fastq | Donor1 | donor_simulation_r1.fastq | donor_simulation_r2.fastq | Pre1 | pre_simulation_r1.fastq | pre_simulation_r2.fastq |
 | Sim10Pre | simulation_0.1_pre.fastq | Donor1 | donor_simulation_r1.fastq | donor_simulation_r2.fastq | Pre1 | pre_simulation_r1.fastq | pre_simulation_r2.fastq |
